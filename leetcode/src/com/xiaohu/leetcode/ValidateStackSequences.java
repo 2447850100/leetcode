@@ -9,7 +9,7 @@ import java.util.Deque;
  */
 public class ValidateStackSequences {
     public static void main(String[] args) {
-
+        System.out.println("11111111111");
     }
 
     public boolean validateStackSequences(int[] pushed, int[] popped) {
