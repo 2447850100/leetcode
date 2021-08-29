@@ -6,7 +6,7 @@ package com.xiaohu.leetcode;
  */
 public class ClimbStairs {
     public static void main(String[] args) {
-        System.out.println(climbStairs(4));
+        System.out.println(climbStairs(5));
     }
 
     public static int climbStairs(int n) {
